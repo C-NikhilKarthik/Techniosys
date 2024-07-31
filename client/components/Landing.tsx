@@ -3,9 +3,9 @@ import React from "react";
 export default function Landing() {
   return (
     <section className="bg-black0 font-drukwide min-h-screen w-full flex items-center justify-center">
-      <div className="max-w-6xl flex mx-auto">
-        <div className="text-white">
-          <div className="text-[clamp(3em,5vw,6em)] leading-[1.1] tracking-wider uppercase">
+      <div className="w-fit px-2 flex mx-auto">
+        <div className="text-white text-center md:text-left">
+          <div className="text-[clamp(2em,5vw,6em)] leading-[1.1] tracking-wider uppercase">
             Techniosys
           </div>
           <div className="text-slate-300 text-lg font-clash">
